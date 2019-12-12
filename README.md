@@ -27,7 +27,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 ## Infographics
 - [Becoming a Data Scientist – Curriculum via Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
-- [What-Where-Who infographic](https://365datascience.com/wp-content/uploads/2018/05/365-Data-Science-Infographic.png
+- [What-Where-Who infographic](https://365datascience.com/wp-content/uploads/2018/05/365-Data-Science-Infographic.png)
 
 ## :page_with_curl: Tutorials
 - [Data Science tutorial library](https://data-flair.training/blogs/data-science-tutorials-home/)

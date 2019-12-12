@@ -1,4 +1,4 @@
-# Awesome-Data S
+# Awesome-DataScience
 
 A curated list of articles, books, courses, infographics and many more covering Data Science and related topics
 
